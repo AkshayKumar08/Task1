@@ -1,0 +1,5 @@
+2024-04-14 14:42:43,660 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:8000
+2024-04-14 14:42:43,662 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-14 14:42:54,960 - INFO - Streaming video: 360p
+2024-04-14 14:42:54,961 - INFO - 127.0.0.1 - - [14/Apr/2024 14:42:54] "GET /video/360 HTTP/1.1" 200 -
